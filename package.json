@@ -1,6 +1,6 @@
 {
   "name": "aprende-tdd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -29,7 +29,7 @@
     "react-dom": "18.2.0"
   },
   "eslintConfig": {
-    "extends":[
+    "extends": [
       "./node_modules/standard/eslintrc.json"
     ]
   }
